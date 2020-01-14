@@ -1,4 +1,4 @@
-package jsonop
+package jsonophandler
 
 import (
 	"encoding/json"
